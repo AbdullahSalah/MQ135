@@ -22,7 +22,7 @@ v1.0 - First release
 #define RZERO 76.63
 /// Parameters for calculating ppm of CO2 from sensor resistance
 #define PARA 116.6020682
-#define PARB 2.769034857
+#define PARB -2.769034857
 
 /// Parameters to model temperature and humidity dependence
 #define CORA 0.00035
